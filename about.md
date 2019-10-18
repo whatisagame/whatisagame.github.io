@@ -1,6 +1,6 @@
 ---
 layout: post
 title: About
----
 
-This project is forthcoming from Playwork Press. More informaion soon.
+---
+This project is forthcoming from Playwork Press. More information soon.
